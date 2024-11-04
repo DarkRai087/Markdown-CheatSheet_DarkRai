@@ -32,3 +32,15 @@ int x =10;
 ```C++
 int i =10;
 ```
+
+<!--by space you can write a code too-->
+
+    int i =10;
+
+<!--How link works-->
+
+[My YouTube Channel](https://www.youtube.com/@datadriven-08)
+
+<https://www.youtube.com/@datadriven-08><!--same text as the link-->
+
+https://www.youtube.com/@datadriven-08 <!--Dricet link-->
