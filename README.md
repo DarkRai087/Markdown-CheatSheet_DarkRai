@@ -80,4 +80,56 @@ int i =10;
 3. Hello
 
 ---
+## 9. Lines Horizontal
+
+---
+
+---
+
+---
+
+## 10. Image
+
+![alt](https://)
+
+---
+
+## 11. Table
+
+<!--Create tables using pipes | and hyphens - to define rows and columns.-->
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
+
+---
+
+## 12. Tasks List
+
+- [x] Completed task
+- [ ] Incomplete task
+
+### 13. Strikethrough
+
+---
+
+<!--Strike through text by surrounding it with ~~.-->
+
+~~Strikethrough~~
+
+### 14 . Html in Markdown
+
+---
+
+<kbd>Ctrl</kbd> + <kbd>C</kbd>
+
+<!--HTML provides extra control over formatting-->
+
+### 15. Emojis
+
+---
+
+:smile: :thumbsup: 😊
+
 
