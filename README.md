@@ -4,21 +4,20 @@ Welcome to the Markdown Cheat Sheet repository! This repo provides a comprehensi
 
 ## Contents
 
-- [Headings](#headings)
-- [Bold and Italic Text](#bold-and-italic-text)
-- [Blockquotes](#blockquotes)
-- [Lists](#lists)
-- [Code Blocks](#code-blocks)
-- [Horizontal Line](#horizontal-line)
-- [Links](#links)
-- [Images](#images)
-- [Tables](#tables)
-- [Task Lists](#task-lists)
-- [Strikethrough](#strikethrough)
-- [Footnotes](#footnotes)
-- [Definition Lists](#definition-lists)
-- [HTML in Markdown](#html-in-markdown)
-- [Emojis](#emojis)
+- [Headings](#1-headling)
+- [Bold Text](#3-bold)
+- [Italic Text](#4-italic)
+- [Blockquotes](#7blockquote)
+- [Lists](#8-list)
+- [Code Blocks](#5-code)
+- [Horizontal Line](#9-lines-horizontal)
+- [Links](#6-link)
+- [Images](#10-image)
+- [Tables](#11-table)
+- [Task Lists](#12-tasks-list)
+- [Strikethrough](#13-strikethrough)
+- [HTML in Markdown](#14--html-in-markdown)
+- [Emojis](#15-emojis)
 
 ## Getting Started
 
@@ -27,6 +26,7 @@ To view the cheat sheet, simply navigate through the contents or open the file `
 ### Example Usage
 
 Each section in this cheat sheet contains:
+
 - A description of the Markdown element.
 - Syntax and example code.
 - Explanation of the element's purpose.
@@ -41,9 +41,7 @@ Markdown is widely supported and allows easy formatting with plain text. Whether
 
 Feel free to contribute! If you have additional tips, tricks, or elements not covered here, please submit a pull request. We welcome improvements that enhance the cheat sheet.
 
-## License
-
-This project is licensed under the MIT License.
+# Markdown Cheat Sheet
 
 <!--Headling-->
 
@@ -127,6 +125,7 @@ int i =10;
 3. Hello
 
 ---
+
 ## 9. Lines Horizontal
 
 ---
@@ -178,5 +177,3 @@ int i =10;
 ---
 
 :smile: :thumbsup: 😊
-
-
