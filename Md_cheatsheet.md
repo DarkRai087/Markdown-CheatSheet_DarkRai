@@ -1,33 +1,35 @@
 <!--Headling-->
 
+## 1. Headling
+
+---
+
 # Hello world
 
 ## Hello World
+
+### Hello World
 
 #### Hello World
 
 ##### Hello World
 
-###### Hello World
-
 ---
 
-<!--line Brake with space-->
+## 2. Line brake with space
 
 Normal text  
 br
 
----
+## 3. Bold
 
-<!--Bold-->
+#### **Bold**
 
-## **Bold** **Bold**
+## 4. Italic
 
-<!--Italic-->
+### _parth_
 
-# _parth_
-
-<!--Code-->
+## 5. Code
 
 ```
 int x =10;
@@ -68,3 +70,57 @@ int i =10;
 - Hello
 
   - Nested item
+
+<!--Ordered List-->
+
+1. Hello
+2. Hello
+3. Hello
+
+---
+
+### lines Horizontal
+
+---
+
+---
+
+---
+
+### Image
+
+![alt](https://)
+
+---
+
+## Table
+
+<!--Create tables using pipes | and hyphens - to define rows and columns.-->
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
+
+---
+
+### Tasks List
+
+- [x] Completed task
+- [ ] Incomplete task
+
+### Strikethrough
+
+---
+
+<!--Strike through text by surrounding it with ~~.-->
+
+~~Strikethrough~~
+
+### FootNote
+
+---
+
+Here's a statement with a footnote.[^1]
+
+[^1]: This is the footnote.
