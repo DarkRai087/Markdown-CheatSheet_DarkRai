@@ -45,7 +45,7 @@ int i =10;
 
     int i =10;
 
-<!--How link works-->
+## 6. Link
 
 [My YouTube Channel](https://www.youtube.com/@datadriven-08)
 
@@ -53,12 +53,14 @@ int i =10;
 
 ## https://www.youtube.com/@datadriven-08 <!--Dricet link-->
 
-### blockquote
+## 7.blockquote
+
+---
 
 > This is a blockquote
 > blockquote can span multiple lines
 
-### List
+## 8. List
 
 <!--Unordered list -->
 <!-- * , - , + ( use any of them)-->
@@ -79,7 +81,7 @@ int i =10;
 
 ---
 
-### lines Horizontal
+## 9. Lines Horizontal
 
 ---
 
@@ -87,13 +89,13 @@ int i =10;
 
 ---
 
-### Image
+## 10. Image
 
 ![alt](https://)
 
 ---
 
-## Table
+## 11. Table
 
 <!--Create tables using pipes | and hyphens - to define rows and columns.-->
 
@@ -104,12 +106,12 @@ int i =10;
 
 ---
 
-### Tasks List
+## 12. Tasks List
 
 - [x] Completed task
 - [ ] Incomplete task
 
-### Strikethrough
+### 13. Strikethrough
 
 ---
 
@@ -117,10 +119,16 @@ int i =10;
 
 ~~Strikethrough~~
 
-### FootNote
+### 14 . Html in Markdown
 
 ---
 
-Here's a statement with a footnote.[^1]
+<kbd>Ctrl</kbd> + <kbd>C</kbd>
 
-[^1]: This is the footnote.
+<!--HTML provides extra control over formatting-->
+
+### 15. Emojis
+
+---
+
+:smile: :thumbsup: 😊
