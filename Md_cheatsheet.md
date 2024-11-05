@@ -1,23 +1,29 @@
 <!--Headling-->
 
-# Hello word
+# Hello world
 
-## Hello
+## Hello World
 
-#### hello
+#### Hello World
 
-## <!--line hr-->
+##### Hello World
 
-##### hello
+###### Hello World
 
-###### hello
+---
 
-<!--line Brake in md-->
+<!--line Brake with space-->
 
 Normal text  
 br
 
-# **Bold** **Bold**
+---
+
+<!--Bold-->
+
+## **Bold** **Bold**
+
+<!--Italic-->
 
 # _parth_
 
@@ -43,4 +49,22 @@ int i =10;
 
 <https://www.youtube.com/@datadriven-08><!--same text as the link-->
 
-https://www.youtube.com/@datadriven-08 <!--Dricet link-->
+## https://www.youtube.com/@datadriven-08 <!--Dricet link-->
+
+### blockquote
+
+> This is a blockquote
+> blockquote can span multiple lines
+
+### List
+
+<!--Unordered list -->
+<!-- * , - , + ( use any of them)-->
+
+- Hello
+
+* Hello
+
+- Hello
+
+  - Nested item
