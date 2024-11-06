@@ -136,7 +136,7 @@ int i =10;
 
 ## 10. Image
 
-![alt](https://)
+![This is an image](https://raw.githubusercontent.com/diluteoxygen/Markdown-CheatSheet_DarkRai/refs/heads/main/icon.jpg)
 
 ---
 
