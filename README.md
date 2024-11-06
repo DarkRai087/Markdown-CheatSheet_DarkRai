@@ -140,7 +140,17 @@ int i =10;
 
 ---
 
-## 11. Table
+## 11. Image with Custom Settings
+
+Markdown itself doesn’t support image resizing directly, but you can use HTML tags for that.
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/diluteoxygen/Markdown-CheatSheet_DarkRai/refs/heads/main/icon.jpg" width="300" height="200" />
+</div>
+
+---
+
+## 12. Table
 
 <!--Create tables using pipes | and hyphens - to define rows and columns.-->
 
@@ -151,12 +161,12 @@ int i =10;
 
 ---
 
-## 12. Tasks List
+## 13. Tasks List
 
 - [x] Completed task
 - [ ] Incomplete task
 
-### 13. Strikethrough
+### 14. Strikethrough
 
 ---
 
@@ -164,7 +174,7 @@ int i =10;
 
 ~~Strikethrough~~
 
-### 14 . Html in Markdown
+### 15. Html in Markdown
 
 ---
 
@@ -172,7 +182,7 @@ int i =10;
 
 <!--HTML provides extra control over formatting-->
 
-### 15. Emojis
+### 16. Emojis
 
 ---
 
